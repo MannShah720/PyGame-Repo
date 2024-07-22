@@ -9,4 +9,4 @@ This is an endless runner where you play as a brain that has to dodge the incomi
 
 **Libraries/Modules used:** Pygame, SQLite3, Random
 
-The images in the definitions folder were created by me using [paint.net](https://www.getpaint.net/) - a graphics editor.
+All the images in the assets & definitions folder were created using [paint.net](https://www.getpaint.net/).
