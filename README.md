@@ -8,3 +8,5 @@ This is an endless runner where you play as a brain that has to dodge the incomi
 - The word you got hit by, the score acheived and your self-assessment are stored in a SQL database, which can be accessed using DB Browser
 
 **Libraries/Modules used:** Pygame, SQLite3, Random
+
+The images in the definitions folder were created by me using [paint.net](https://www.getpaint.net/) - a graphics editor.
